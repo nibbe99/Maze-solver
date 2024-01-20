@@ -1,4 +1,5 @@
 This maze solver application finds the shortest path from A to B.
+
 0 - path
 1 - wall
 2 - starting position
